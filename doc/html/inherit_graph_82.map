@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,46,85,73"/>
-<area shape="rect" id="node2" href="$classcom_1_1google_1_1devtools_1_1build_1_1android_1_1dexer_1_1_async_zip_out.html" title=" " alt="" coords="143,5,402,47"/>
-<area shape="rect" id="node3" href="$interfacecom_1_1google_1_1devtools_1_1build_1_1android_1_1junctions_1_1_junction_creator.html" title=" " alt="" coords="133,71,412,112"/>
-<area shape="rect" id="node4" href="$classcom_1_1google_1_1devtools_1_1build_1_1android_1_1junctions_1_1_noop_junction_creator.html" title=" " alt="" coords="460,37,739,79"/>
-<area shape="rect" id="node5" href="$classcom_1_1google_1_1devtools_1_1build_1_1android_1_1junctions_1_1_windows_junction_creator.html" title=" " alt="" coords="460,103,739,144"/>
-</map>

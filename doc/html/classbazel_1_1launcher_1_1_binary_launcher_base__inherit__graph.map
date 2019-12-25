@@ -1,6 +1,0 @@
-<map id="bazel::launcher::BinaryLauncherBase" name="bazel::launcher::BinaryLauncherBase">
-<area shape="rect" id="node1" title=" " alt="" coords="5,78,244,105"/>
-<area shape="rect" id="node2" href="$classbazel_1_1launcher_1_1_bash_binary_launcher.html" title=" " alt="" coords="297,5,483,47"/>
-<area shape="rect" id="node3" href="$classbazel_1_1launcher_1_1_java_binary_launcher.html" title=" " alt="" coords="299,71,481,112"/>
-<area shape="rect" id="node4" href="$classbazel_1_1launcher_1_1_python_binary_launcher.html" title=" " alt="" coords="292,136,488,177"/>
-</map>
