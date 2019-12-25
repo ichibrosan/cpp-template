@@ -1,7 +1,11 @@
 #include <iostream>
-#include "src/lib/Greeting.h"
-#include "src/lib/Extra.h"
+#include "src/lib/Greeting.hpp"
+#include "src/lib/Extra.hpp"
 
+/**
+ * Main entry point of Greeting program
+ *
+*/
 int main()
 {
     Greeting *greet = new Greeting();

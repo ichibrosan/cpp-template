@@ -1,6 +1,6 @@
 #include "gtest/gtest.h"
-#include "src/lib/Greeting.h"
-#include "src/lib/Extra.h"
+#include "src/lib/Greeting.hpp"
+#include "src/lib/Extra.hpp"
 
 TEST(GreetingShould, ReturnHelloWorld){
     Greeting *greet = new Greeting();
