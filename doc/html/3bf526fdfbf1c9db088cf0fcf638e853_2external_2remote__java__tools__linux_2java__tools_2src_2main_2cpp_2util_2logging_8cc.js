@@ -1,8 +1,0 @@
-var 3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc =
-[
-    [ "DECLARE_STREAM_OPERATOR", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc.html#a791409d1c646e7cd982488842875bd5b", null ],
-    [ "LogLevelName", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc.html#a8f7556f7a0d67bf4d5b493f63d5d89f3", null ],
-    [ "SetLoggingOutputStream", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc.html#a8436cfa0076c74f341cc34e93a69b9a4", null ],
-    [ "SetLoggingOutputStreamToStderr", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc.html#a267ff58a36136d129a1c4d2a1a564463", null ],
-    [ "SetLogHandler", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2logging_8cc.html#a4fedd5a5960fd244f1dbd250c2c2200f", null ]
-];

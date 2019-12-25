@@ -1,4 +1,0 @@
-var install_2d687aca87a7669724cc958527f2423da_2embedded__tools_2third__party_2py_2concurrent_2futures_2____init_____8py =
-[
-    [ "__author__", "install_2d687aca87a7669724cc958527f2423da_2embedded__tools_2third__party_2py_2concurrent_2futures_2____init_____8py.html#af528e079063268184da0ebed2b494b38", null ]
-];

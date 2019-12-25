@@ -1,4 +1,0 @@
-var 3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2zlib_2gzclose_8c =
-[
-    [ "gzclose", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2zlib_2gzclose_8c.html#aa7cbb6800b5c2e3a897b4470fbb3abcd", null ]
-];

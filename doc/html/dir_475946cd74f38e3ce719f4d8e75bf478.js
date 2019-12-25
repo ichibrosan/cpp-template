@@ -1,4 +1,0 @@
-var dir_475946cd74f38e3ce719f4d8e75bf478 =
-[
-    [ "googletest", "dir_56459d333f29df943488870715d0ae64.html", "dir_56459d333f29df943488870715d0ae64" ]
-];

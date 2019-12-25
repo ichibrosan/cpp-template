@@ -1,6 +1,0 @@
-var namespacecom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment =
-[
-    [ "IncrementalClassLoader", "classcom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment_1_1_incremental_class_loader.html", "classcom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment_1_1_incremental_class_loader" ],
-    [ "Placeholder", "classcom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment_1_1_placeholder.html", null ],
-    [ "StubApplication", "classcom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment_1_1_stub_application.html", "classcom_1_1google_1_1devtools_1_1build_1_1android_1_1incrementaldeployment_1_1_stub_application" ]
-];

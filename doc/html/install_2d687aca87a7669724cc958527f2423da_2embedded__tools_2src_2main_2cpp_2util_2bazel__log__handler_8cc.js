@@ -1,5 +1,0 @@
-var install_2d687aca87a7669724cc958527f2423da_2embedded__tools_2src_2main_2cpp_2util_2bazel__log__handler_8cc =
-[
-    [ "PrintDebugLevelMessageToStream", "install_2d687aca87a7669724cc958527f2423da_2embedded__tools_2src_2main_2cpp_2util_2bazel__log__handler_8cc.html#a5e5d9e043bc635d7ca23c2d3fbcc5e04", null ],
-    [ "PrintUserLevelMessageToStream", "install_2d687aca87a7669724cc958527f2423da_2embedded__tools_2src_2main_2cpp_2util_2bazel__log__handler_8cc.html#a0f4b684243934a317fb18294672789a1", null ]
-];

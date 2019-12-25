@@ -1,4 +1,0 @@
-var namespacetesting_1_1gmock__matchers__test_1_1convertible__from__any =
-[
-    [ "ConvertibleFromAny", "structtesting_1_1gmock__matchers__test_1_1convertible__from__any_1_1_convertible_from_any.html", "structtesting_1_1gmock__matchers__test_1_1convertible__from__any_1_1_convertible_from_any" ]
-];

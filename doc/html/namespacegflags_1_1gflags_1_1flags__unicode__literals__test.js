@@ -1,4 +1,0 @@
-var namespacegflags_1_1gflags_1_1flags__unicode__literals__test =
-[
-    [ "FlagsUnicodeLiteralsTest", "classgflags_1_1gflags_1_1flags__unicode__literals__test_1_1_flags_unicode_literals_test.html", "classgflags_1_1gflags_1_1flags__unicode__literals__test_1_1_flags_unicode_literals_test" ]
-];

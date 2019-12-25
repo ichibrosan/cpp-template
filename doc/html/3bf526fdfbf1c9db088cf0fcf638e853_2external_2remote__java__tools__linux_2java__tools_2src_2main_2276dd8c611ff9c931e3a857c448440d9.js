@@ -1,4 +1,0 @@
-var 3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2276dd8c611ff9c931e3a857c448440d9 =
-[
-    [ "WIN32_LEAN_AND_MEAN", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2276dd8c611ff9c931e3a857c448440d9.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ]
-];

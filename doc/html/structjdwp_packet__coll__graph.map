@@ -1,5 +1,0 @@
-<map id="jdwpPacket" name="jdwpPacket">
-<area shape="rect" id="node1" title=" " alt="" coords="94,95,185,121"/>
-<area shape="rect" id="node2" href="$structjdwp_reply_packet.html" title=" " alt="" coords="5,5,129,32"/>
-<area shape="rect" id="node3" href="$structjdwp_cmd_packet.html" title=" " alt="" coords="153,5,272,32"/>
-</map>

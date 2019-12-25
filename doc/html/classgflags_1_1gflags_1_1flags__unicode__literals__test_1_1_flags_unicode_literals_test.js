@@ -1,4 +1,0 @@
-var classgflags_1_1gflags_1_1flags__unicode__literals__test_1_1_flags_unicode_literals_test =
-[
-    [ "testUnicodeFlagNameAndValueAreGood", "classgflags_1_1gflags_1_1flags__unicode__literals__test_1_1_flags_unicode_literals_test.html#afb719abe434014fd0a6a4f98f518589c", null ]
-];

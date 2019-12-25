@@ -1,8 +1,0 @@
-var 3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc =
-[
-    [ "safe_parse_negative_int", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc.html#ad58a5af9907cd4bcfdad0c3a5da0737b", null ],
-    [ "safe_parse_positive_int", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc.html#aceded3e2a679baf41f5688caca529c5f", null ],
-    [ "safe_parse_sign", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc.html#a7bc37c32c5b1713f3a1ffad6ca2bfaf6", null ],
-    [ "safe_strto32", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc.html#a42ad5e87552c658041a9fafba20b3267", null ],
-    [ "strto32", "3bf526fdfbf1c9db088cf0fcf638e853_2external_2remote__java__tools__linux_2java__tools_2src_2main_2cpp_2util_2numbers_8cc.html#af1a9ca81d203c952c3f5d5123e5e825e", null ]
-];
