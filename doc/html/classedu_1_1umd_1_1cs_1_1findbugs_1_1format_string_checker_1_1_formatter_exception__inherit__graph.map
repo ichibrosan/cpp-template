@@ -1,0 +1,8 @@
+<map id="edu.umd.cs.findbugs.formatStringChecker.FormatterException" name="edu.umd.cs.findbugs.formatStringChecker.FormatterException">
+<area shape="rect" id="node1" title=" " alt="" coords="133,133,356,174"/>
+<area shape="rect" id="node3" href="$classedu_1_1umd_1_1cs_1_1findbugs_1_1format_string_checker_1_1_extra_format_arguments_exception.html" title=" " alt="" coords="408,5,652,61"/>
+<area shape="rect" id="node4" href="$classedu_1_1umd_1_1cs_1_1findbugs_1_1format_string_checker_1_1_formatter_number_format_exception.html" title=" " alt="" coords="404,85,656,141"/>
+<area shape="rect" id="node5" href="$classedu_1_1umd_1_1cs_1_1findbugs_1_1format_string_checker_1_1_illegal_format_conversion_exception.html" title=" " alt="" coords="405,165,655,221"/>
+<area shape="rect" id="node6" href="$classedu_1_1umd_1_1cs_1_1findbugs_1_1format_string_checker_1_1_missing_format_argument_exception.html" title=" " alt="" coords="405,245,655,301"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,140,85,167"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="jdwpTransportNativeInterface_" name="jdwpTransportNativeInterface_">
+<area shape="rect" id="node1" title=" " alt="" coords="156,184,356,211"/>
+<area shape="rect" id="node2" href="$structjdwp_transport_configuration.html" title=" " alt="" coords="5,95,187,121"/>
+<area shape="rect" id="node3" href="$structjdwp_packet.html" title=" " alt="" coords="211,95,301,121"/>
+<area shape="rect" id="node4" href="$structjdwp_reply_packet.html" title=" " alt="" coords="121,5,245,32"/>
+<area shape="rect" id="node5" href="$structjdwp_cmd_packet.html" title=" " alt="" coords="269,5,387,32"/>
+<area shape="rect" id="node6" href="$struct_j_d_w_p_transport_capabilities.html" title=" " alt="" coords="325,95,509,121"/>
+</map>
